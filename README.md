@@ -12,6 +12,6 @@ TensorFlow 2.0
 ## Data  
 CPIH-Intra database proposed by “A Deep Convolutional Neural Network Approach For Complexity Reduction On Intra-Mode Hevc” is adopted.
 ## Testing
-Experiments are on all test sequences from class A1 to class E.
+Experiments are testing on all the test sequences from class A1 to class E.
 
 
