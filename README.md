@@ -2,6 +2,8 @@
 TensorFlow-based implementation of "Two-phase Multi-model for Trimming QTMT CU Partition using Convolutional Neural Networks"
 # Architecture
 ![image](https://github.com/pinchieh/Two-phase-Multi-model/blob/master/architecture.PNG)  
+# Fast QTMT Algorithm
+![image](https://github.com/pinchieh/Two-phase-Multi-model/blob/master/Fast%20QTMT%20Alg.PNG)
 # Result  
 0.71% BD-BD increased / 42.341% average time saving with VTM6.1 in All-Intra configuration
 # Experiment
