@@ -1,5 +1,5 @@
 # Two-phase-Multi-model  
-TensorFlow-based implementation of "Two-phase Multi-model for Trimming QTMT CU Partition using Convolutional Neural Networks"
+TensorFlow-based implementation of "Two-phase Scheme for Trimming QTMT CU Partition using Multi-branch Convolutional Neural Networks"
 # Architecture
 ![image](https://github.com/pinchieh/Two-phase-Multi-model/blob/master/model.PNG)  
 # Fast QTMT Algorithm
